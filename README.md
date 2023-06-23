@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 -   email:Donya.f21@outlook.com
--   insta:donya.fbt
+-   insta:@Donya.fbt
 
 <!---
 Donya76/Donya76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
