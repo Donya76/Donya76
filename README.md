@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Donya76
 - 👀 I’m interested in C# and Python
-- 🌱 I’m currently learning C# and working on python very slowly🐌
+- 🌱 I’m currently learning C# very slowly🐌
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 -   email:Donya.f21@outlook.com
